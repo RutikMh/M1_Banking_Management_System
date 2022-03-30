@@ -47,9 +47,6 @@ modules C lectures
 
 [![Contribution Check - Git Inspector](https://github.com/pavankumar2266/M1_Banking_management_system_app/actions/workflows/check.yml/badge.svg)](https://github.com/pavankumar2266/M1_Banking_management_system_app/actions/workflows/check.yml)
 
-
-![Screenshot (361)](https://user-images.githubusercontent.com/62882163/156709157-33c89101-8260-42f2-8663-f1e0152917ab.png)
-
-
+![image](https://user-images.githubusercontent.com/101556999/160884791-c7b53642-2eee-4860-a585-d8e102deb7bb.png)
 
 
