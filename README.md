@@ -26,7 +26,6 @@ Youtube C programming
 modules C lectures
 
 ## SDLC activity:
-[![Cpp check](https://github.com/RutikMahajan/M1_Banking_management_system_Util/actions/workflows/Cpp%20check.yml/badge.svg)](https://github.com/RutikMahajan/M1_Banking_management_system_Util/actions/workflows/Cpp%20check.yml)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/e645ec83082d41518de63594a89d41b3)](https://www.codacy.com/gh/RutikMh/M1_Banking_management_system_app/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=RutikMh/M1_Banking_management_system_app&amp;utm_campaign=Badge_Grade)
 
